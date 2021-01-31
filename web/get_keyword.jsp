@@ -15,7 +15,7 @@
 //请求对象
    String keyword= request.getParameter("keyword");
    out.print(keyword);
-
+    out.print(keyword);
 %>
 </body>
 </html>
